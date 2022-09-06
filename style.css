@@ -7,9 +7,14 @@ body {
     height:300px
 }
 
+.principal {
+    backgroud: pink
+}
+
 h1 {
     text-align: center;
     color: hotpink;
+    border: 10px solid pink
 }
 
 p {
@@ -30,4 +35,8 @@ em strong {
 
 .beneficios {
     background: white
+}
+
+h2 {
+    text-align:center;
 }
