@@ -1,5 +1,5 @@
 body {
-    backgroud: #CCCCCC
+    backgroud: pink
 }
 
 #banner {
@@ -24,4 +24,8 @@ em strong {
 
 .itens {
     font-style: italic
+}
+
+.beneficios {
+    background: white
 }
