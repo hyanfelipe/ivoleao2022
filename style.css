@@ -1,5 +1,5 @@
 body {
-    backgroud: pink
+    background;: pink
 }
 
 #banner {
@@ -43,6 +43,9 @@ em strong {
     padding: 20px;
 }
 
+h1 {
+    text-align: center;
+}
 
 ul {
     display: inline-block;
@@ -55,6 +58,6 @@ ul {
     width: 50%;
 }
 
-<h2> {
+h2 {
     text-align: center;
 }
